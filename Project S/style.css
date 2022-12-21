@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+body{
+    font-family: 'Secular One', sans-serif;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation{
+    background-color: rgb(68, 113, 68);
+    padding: 15px;
+    text-decoration: none;
+    display: flex;
+}
+.navigation .list .left{
+    text-align: right;
+}
+.list a{
+    
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+}
+.logo{
+    text-align: left;
+   
+}
